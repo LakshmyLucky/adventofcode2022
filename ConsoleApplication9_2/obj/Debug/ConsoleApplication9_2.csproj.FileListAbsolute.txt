@@ -1,0 +1,6 @@
+D:\Мои проекты\adventofcode2022\ConsoleApplication9_2\bin\Debug\ConsoleApplication9_2.exe.config
+D:\Мои проекты\adventofcode2022\ConsoleApplication9_2\obj\Debug\ConsoleApplication9_2.csprojResolveAssemblyReference.cache
+D:\Мои проекты\adventofcode2022\ConsoleApplication9_2\bin\Debug\ConsoleApplication9_2.exe
+D:\Мои проекты\adventofcode2022\ConsoleApplication9_2\bin\Debug\ConsoleApplication9_2.pdb
+D:\Мои проекты\adventofcode2022\ConsoleApplication9_2\obj\Debug\ConsoleApplication9_2.exe
+D:\Мои проекты\adventofcode2022\ConsoleApplication9_2\obj\Debug\ConsoleApplication9_2.pdb
