@@ -1,0 +1,6 @@
+D:\Мои проекты\adventofcode2022_5\bin\Debug\adventofcode2022_5.exe.config
+D:\Мои проекты\adventofcode2022_5\bin\Debug\adventofcode2022_5.exe
+D:\Мои проекты\adventofcode2022_5\bin\Debug\adventofcode2022_5.pdb
+D:\Мои проекты\adventofcode2022_5\obj\Debug\adventofcode2022_5.csprojResolveAssemblyReference.cache
+D:\Мои проекты\adventofcode2022_5\obj\Debug\adventofcode2022_5.exe
+D:\Мои проекты\adventofcode2022_5\obj\Debug\adventofcode2022_5.pdb
